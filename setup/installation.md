@@ -1,10 +1,12 @@
 # How to Structure Content
 
-## Folder Organization
-Explain that folders group related MD files together.
+To ensure GitBook reads your GitHub repository correctly, follow these rules:
 
-## The SUMMARY File
-Explain that this file acts as the map for GitBook.
+## 1. Use Markdown Files
+All content must be written in `.md` files. GitBook will automatically convert these into web pages.
 
-### Linking Files
-Show how to use relative links in Markdown.
+## 2. The Root README
+The `README.md` file in your root directory acts as your homepage.
+
+## 3. Creating Folders
+Group related files into folders (e.g., `/setup` or `/guides`). This keeps your GitHub repository clean and organized.
