@@ -1,12 +1,9 @@
-# Table of contents
+# Table of Contents
 
+## Getting Started
 * [Introduction](README.md)
+* [How to Structure Files](setup/installation.md)
+    * [Folder Logic](setup/configuration.md)
 
-## Project Guidelines
-* [Getting Started](getting-started.md)
-  * [Installation](setup/install.md)
-  * [Configuration](setup/config.md)
-
-## Documentation Rules
-* [Structure Rules](repo-structure.md)
-* [Navigation Guide](nav-guide.md)
+## Navigation Guidelines
+* [Creating Sidebar](guides/navigation.md)
